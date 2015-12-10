@@ -1,5 +1,6 @@
 Lotus_Daily_Algorithm
 ===
+![kungfu](https://raw.githubusercontent.com/lotushacker/Lotus_Daily_Algorithm/master/Resource/kungfu.jpg)
 
 ## :snail: 经典题
 > leetcode & lintcode等
