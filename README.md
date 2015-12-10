@@ -4,11 +4,11 @@ Lotus_Daily_Algorithm
 ## :snail: 经典题
 > leetcode & lintcode等
 
-#### :coffee:  `数组链表`
+#### :coffee:  数组链表
 
 ##### 1.
 
-#### :coffee:  `二叉树`
+#### :coffee:  二叉树
 
 ##### 1. 
 
