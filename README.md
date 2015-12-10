@@ -4,23 +4,19 @@ Lotus_Daily_Algorithm
 ## :snail: 经典题
 > leetcode & lintcode等
 
-#### :coffee:  `Property相关`
+#### :coffee:  `数组链表`
 
-##### 1. 属性特质分类？内存管理语义包括哪几种，区别？
+##### 1.
+
+#### :coffee:  `二叉树`
+
+##### 1. 
 
 ## :snail: 竞赛题
 > poj
 
-####  :coffee: `Property相关`
-
-##### 1. 属性特质分类？内存管理语义包括哪几种，区别？ 
-
 ## 杂项
 
 > 杂题
-
-####  :coffee: `Property相关`
-
-##### 1. 属性特质分类？内存管理语义包括哪几种，区别？ (:star:)
 
 
