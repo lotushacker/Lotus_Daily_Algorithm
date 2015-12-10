@@ -3,21 +3,20 @@ Lotus_Daily_Algorithm
 
 # Table of Contents
 
-- [leetcode](#leetcode)
-- [poj](#poj)
-- [剑指offer](#剑指offer)
+- [经典题](#经典题)
+- [竞赛题](#竞赛题)
 - [杂项](#杂项)
 
 
-## leetcode
-> leetcode.com
+## 经典题
+> leetcode & lintcode等
 
 ###   `Property相关`
 
 #### 1. 属性特质分类？内存管理语义包括哪几种，区别？
 
-## poj
-> lintcode
+## 竞赛题
+> poj
 
 ###   `Property相关`
 
