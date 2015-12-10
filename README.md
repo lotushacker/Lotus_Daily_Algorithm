@@ -11,7 +11,7 @@ Lotus_Daily_Algorithm
 
 #### :coffee:  二叉树
 
-##### 1. 
+##### 1.
 
 ## :snail: 竞赛题
 > poj
