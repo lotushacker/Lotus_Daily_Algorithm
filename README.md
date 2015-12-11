@@ -7,11 +7,11 @@ Lotus_Daily_Algorithm
 
 #### :coffee:  数组链表
 
-##### 1.
+##### 1.TwoSum问题 (leetcode)
 
 #### :coffee:  二叉树
 
-##### 1.
+##### 1. [寻找路径值等于给定值]()
 
 ## :snail: 竞赛题
 > poj
