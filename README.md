@@ -13,6 +13,8 @@ Lotus_Daily_Algorithm
 
 ##### 1. [寻找路径值等于给定值]()
 
+#### :coffee:  字符串
+
 ## :snail: 竞赛题
 > poj
 
