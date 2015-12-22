@@ -20,7 +20,7 @@ Lotus_Daily_Algorithm
 ## :snail: 竞赛题
 > poj
 
-#### 1.
+#### 1. 
 
 ## 杂项
 
