@@ -18,7 +18,7 @@ Lotus_Daily_Algorithm
 #### 1.给定字符串，按单词反转
 
 ## :snail: 竞赛题
-> poj
+> poj.
 
 #### 1. 
 
