@@ -2,7 +2,7 @@ Lotus_Daily_Algorithm
 ===
 ![kungfu](https://raw.githubusercontent.com/lotushacker/Lotus_Daily_Algorithm/master/Resource/kungfu.jpg)
 
-## :snail: 经典题
+## :snail: 一、经典题
 > leetcode & lintcode等
 
 #### :coffee:  数组链表
@@ -17,12 +17,12 @@ Lotus_Daily_Algorithm
 
 #### 1.给定字符串，按单词反转
 
-## :snail: 竞赛题
-> poj.
+## :snail: 二、竞赛题
+> poj
 
 #### 1. 
 
-## 杂项
+## 三、杂项
 
 > 杂题
 
