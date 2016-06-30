@@ -5,25 +5,27 @@ Lotus_Daily_Algorithm
 ## :snail: 一、经典题
 > leetcode & lintcode等
 
-#### :coffee:  数组链表
+#### :coffee: 数组链表
 
-##### 1.TwoSum问题 (leetcode)
+- [TwoSum问题]()
 
 #### :coffee:  二叉树
 
-##### 1. [寻找路径值等于给定值]()
+- [寻找路径值等于给定值]()
 
 #### :coffee:  字符串
 
-#### 1.给定字符串，按单词反转
+- [给定字符串，按单词反转]()
 
 ## :snail: 二、竞赛题
 > poj
 
-#### 1. 
+- 施工
 
-## 三、杂项
+## :snail: 三、杂项
 
 > 杂题
+
+- 施工
 
 
